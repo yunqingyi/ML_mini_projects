@@ -5,6 +5,10 @@ def areyouOk():
     print("Are you Ok? ")
     hello()
 
+def Iamfine():
+    print("I'm fine")
+
 if __name__ == "__main__":
     hello()
     areyouOk()
+    Iamfine()
