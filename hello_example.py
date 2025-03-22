@@ -7,8 +7,9 @@ def areyouOk():
 
 def Iamfine():
     print("I'm fine")
-
+import thankyou
 if __name__ == "__main__":
     hello()
     areyouOk()
     Iamfine()
+    thankyou()
