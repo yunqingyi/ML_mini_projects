@@ -8,7 +8,11 @@ def areyouOk():
 def Iamfine():
     print("I'm fine")
 
+def Iamnotfine():
+    print("I'm not fine")
+
 if __name__ == "__main__":
     hello()
     areyouOk()
     Iamfine()
+    Iamnotfine()
